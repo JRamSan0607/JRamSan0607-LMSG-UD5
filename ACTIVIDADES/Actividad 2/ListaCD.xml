@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Actividad 2.4/CD_p4.xsl"?>
+<ListaCD>
+    <CD>
+        <TítuloDelAlbum>El Madrileño</TítuloDelAlbum>
+        <Artista>C.Tangana</Artista>
+        <Canción tiempo="154">Demasiadas mujeres</Canción>
+        <Canción tiempo="199">Tú me dejaste de querer</Canción>
+        <Canción tiempo="175">Comerte entera</Canción>
+        <Canción tiempo="163">Nunca estoy</Canción>
+        <Canción tiempo="168">Párteme la cara</Canción>
+        <Canción tiempo="188">Ingobernable</Canción>
+        <Canción tiempo="178">Nominao</Canción>
+        <Sello>Sony Music España</Sello>
+        <AñoDePublicacion>2021</AñoDePublicacion>
+    </CD>
+    <CD>
+        <TítuloDelAlbum>Nastu Album</TítuloDelAlbum>
+        <Artista>RVFV</Artista>
+        <Canción tiempo="158">Yo aprendí</Canción>
+        <Canción tiempo="219">No me quiere ver</Canción>
+        <Canción tiempo="169">Mami</Canción>
+        <Canción tiempo="168">Mi luz</Canción>
+        <Canción tiempo="214">Aunque sea mentira</Canción>
+        <Canción tiempo="202">Dice</Canción>
+        <Sello>Nastu Album</Sello>
+        <AñoDePublicacion>2022</AñoDePublicacion>
+    </CD>
+    <CD>
+        <TítuloDelAlbum>BackToRockPort</TítuloDelAlbum>
+        <Artista>Kidd Keo</Artista>
+        <Canción tiempo="161">24H</Canción>
+        <Canción tiempo="153">Money till I die</Canción>
+        <Canción tiempo="212">Loco</Canción>
+        <Canción tiempo="136">I got cash</Canción>
+        <Canción tiempo="147">Me flipa</Canción>
+        <Canción tiempo="111">Sky high</Canción>
+        <Canción tiempo="127">Lil bit</Canción>
+        <Canción tiempo="168">Moon Talk</Canción>
+        <Sello>Warner Music Latina</Sello>
+        <AñoDePublicacion>2020</AñoDePublicacion>
+    </CD>
+    <CD>
+        <TítuloDelAlbum>El último Tour del Mundo</TítuloDelAlbum>
+        <Artista>Bad Bunny</Artista>
+        <Canción tiempo="165">El mundo es mío</Canción>
+        <Canción tiempo="130">Te mudaste</Canción>
+        <Canción tiempo="162">Hoy cobré</Canción>
+        <Canción tiempo="214">Maldita pobreza</Canción>
+        <Canción tiempo="203">La noche de anoche</Canción>
+        <Canción tiempo="140">Te deseo lo mejor</Canción>
+        <Canción tiempo="192">Yo visto así</Canción>
+        <Canción tiempo="218">Haciendo que me amas</Canción>
+        <Canción tiempo="157">Booker T</Canción>
+        <Sello>Bad Bunny</Sello>
+        <AñoDePublicacion>2020</AñoDePublicacion>
+    </CD>
+    <CD>
+        <TítuloDelAlbum>Homerun</TítuloDelAlbum>
+        <Artista>Paulo Londra</Artista>
+        <Canción tiempo="150">Homerun(Intro)</Canción>
+        <Canción tiempo="264">Tal vez</Canción>
+        <Canción tiempo="175">No puedo</Canción>
+        <Canción tiempo="257">Adán y Eva</Canción>
+        <Canción tiempo="167">Demasiado loco</Canción>
+        <Canción tiempo="250">Maldita abusadora</Canción>
+        <Sello>Warner Music Group</Sello>
+        <AñoDePublicacion>2019</AñoDePublicacion>
+    </CD>
+    <CD>
+        <TítuloDelAlbum>Dead Trees</TítuloDelAlbum>
+        <Artista>Skrillex</Artista>
+        <Canción tiempo="69">Heresy</Canción>
+        <Canción tiempo="109">Straight to Face</Canción>
+        <Canción tiempo="209">H8 Meh</Canción>
+        <Canción tiempo="244">Dead Trees</Canción>
+        <Canción tiempo="186">I solemny swear that I Am up to no good</Canción>
+        <Canción tiempo="225">Black and White</Canción>
+        <Canción tiempo="198">Back to Hannalei</Canción>
+        <Canción tiempo="226">Never in Reverie</Canción>
+        <Canción tiempo="226">2 11</Canción>
+        <Canción tiempo="177">Electrified</Canción>
+        <Canción tiempo="200">I don´t wanna live in the forest</Canción>
+        <Canción tiempo="240">Not to self</Canción>
+        <Canción tiempo="220">Ride the wings of pestile</Canción>
+        <Canción tiempo="203">The latest plague</Canción>
+        <Sello>Sumerian Records</Sello>
+        <AñoDePublicacion>2015</AñoDePublicacion>
+    </CD>
+    <CD>
+        <TítuloDelAlbum>La 167</TítuloDelAlbum>
+        <Artista>Farruko</Artista>
+        <Canción tiempo="210">Ki</Canción>
+        <Canción tiempo="181">La tóxica</Canción>
+        <Canción tiempo="288">Pepas</Canción>
+        <Canción tiempo="221">GPS</Canción>
+        <Canción tiempo="188">F*Love</Canción>
+        <Canción tiempo="210">Cucaracha</Canción>
+        <Canción tiempo="163">Lambo</Canción>
+        <Canción tiempo="216">My lova</Canción>
+        <Canción tiempo="195">Baja cali</Canción>
+        <Canción tiempo="189">La perla</Canción>
+        <Canción tiempo="244">Cuervos</Canción>
+        <Canción tiempo="268">El incomprendido</Canción>
+        <Canción tiempo="227">Embalao</Canción>
+        <Sello>Farruko</Sello>
+        <AñoDePublicacion>2021</AñoDePublicacion>
+    </CD>
+    <CD>
+        <TítuloDelAlbum>Perdonen la espera</TítuloDelAlbum>
+        <Artista>Jon Z</Artista>
+        <Canción tiempo="244">Bendición mami</Canción>
+        <Canción tiempo="177">Natti. Karol, Becky</Canción>
+        <Canción tiempo="155">Bebecita</Canción>
+        <Canción tiempo="167">Izquierda derecha</Canción>
+        <Canción tiempo="282">Que se frezeen los relojes</Canción>
+        <Canción tiempo="157">My son remix</Canción>
+        <Canción tiempo="213">L.I.T Remix</Canción>
+        <Canción tiempo="190">Iris chacón</Canción>
+        <Canción tiempo="196">Hasta la muerte acicalau</Canción>
+        <Sello>Chosen Few Emerald</Sello>
+        <AñoDePublicacion>2020</AñoDePublicacion>
+    </CD>
+    <CD>
+        <TítuloDelAlbum>Mar de Cristal</TítuloDelAlbum>
+        <Artista>Soge</Artista>
+        <Canción tiempo="218">Mar de cristal</Canción>
+        <Canción tiempo="164">Desátame</Canción>
+        <Canción tiempo="213">La pieza del puzzle</Canción>
+        <Canción tiempo="178">Soy de barrio</Canción>
+        <Canción tiempo="134">Todo pasó</Canción>
+        <Canción tiempo="267">Inquietudes</Canción>
+        <Canción tiempo="124">Escondes una espada</Canción>
+        <Canción tiempo="198">Distancia</Canción>
+        <Canción tiempo="156">Ángel de compañía</Canción>
+        <Canción tiempo="177">Mi isla</Canción>
+        <Canción tiempo="213">Suena</Canción>
+        <Canción tiempo="218">Abraza a tu madre</Canción>
+        <Canción tiempo="156">Lo que vendrá</Canción>
+        <Canción tiempo="125">Mil historias</Canción>
+        <Sello>Ambkor</Sello>
+        <AñoDePublicacion>2019</AñoDePublicacion>
+    </CD>
+</ListaCD>

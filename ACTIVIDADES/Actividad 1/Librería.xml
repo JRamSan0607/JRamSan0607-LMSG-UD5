@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Librería.xsl"?>
+<Librería>
+    <Libro>
+        <Título>Bat Pat: El monstruo de las cloacas</Título>
+        <Autor>Roberto Pavanello</Autor>
+        <ISBN>9788484414810</ISBN>
+        <Editorial>Montena</Editorial>
+        <Precio>18.50€</Precio>
+        <NumPag>128</NumPag>
+    </Libro>
+    <Libro>
+        <Título>Bat Pat: El tesoro del cementerio</Título>
+        <Autor>Roberto Pavanello</Autor>
+        <ISBN>978-8484414230</ISBN>
+        <Editorial>Montena</Editorial>
+        <Precio>23.10€</Precio>
+        <NumPag>128</NumPag>
+    </Libro>
+    <Libro>
+        <Título>Bat Pat: La isla de las sirenas</Título>
+        <Autor>Roberto Pavanello</Autor>
+        <ISBN>978-8484415800</ISBN>
+        <Editorial>Montena</Editorial>
+        <Precio>12.70€</Precio>
+        <NumPag>112</NumPag>
+    </Libro>
+</Librería>
